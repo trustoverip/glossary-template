@@ -1,2 +1,15 @@
-# glossary-template
-A template for repos that host terminology data on a wiki, per CTWG recommendations
+# Terms for &lt;your scope&gt;
+
+This is where to collaborate on terminology that &lt;your scope&gt; wants to formalize -- to build, version, and release glossaries, to reference from whitepapers, and so forth.
+
+### Next Steps
+
+-[ ] Turn on the github wiki feature for this repo. (Settings &gt; Options &gt; Features &gt; tick "Wikis")
+-[ ] Turn off most of the other features; you won't need them. (Settings &gt; Options &gt; Features &gt; untick other stuff)
+-[ ] Add at least one term to your wiki. (Wiki &gt; New Page &mdash; copy the template from [here](https://raw.githubusercontent.com/trustoverip/concepts-and-terminology-wg/master/.github/ISSUE_TEMPLATE/01-new-term.md) and fill it out.)
+-[ ] Share the URL for this repo with people who need to collaborate with you.
+-[ ] Delete these instructions, now that they're irrelevant.
+
+### How to contribute
+
+See [this training](https://example.com/foo) for instructions.
