@@ -2,7 +2,7 @@
 
 This is where to collaborate on terminology that &lt;your scope&gt; wants to formalize -- to build, version, and release glossaries, to reference from whitepapers, and so forth.
 
-### Next Steps (afer creating the repo)
+### Next Steps (after creating the repo)
 
 - [ ] Turn on the github wiki feature for this repo. (`Settings` &gt; `Options` &gt; `Features` &gt; tick `Wikis`)
 - [ ] Turn off most of the other features; you won't need them. (`Settings` &gt; `Options` &gt; `Features` &gt; untick other stuff)
